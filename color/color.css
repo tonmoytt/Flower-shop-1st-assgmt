@@ -5,6 +5,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 header{
+     
 
 }
 .maindiv{
@@ -14,10 +15,48 @@ header{
 }
 .divbackground{
     background-color: antiquewhite;
+  display: flex;
+   
+    
 }
 .common{
     background-color: #E55473;
     padding: 10px 15px;
     border-radius: 5px;
     color: white;
+    border: 1px solid #E55473;
+}
+#picture{
+    height: 500px;
+    width: 630px;
+    padding-top: 15px;
+    padding-right: 30px;
+
+}
+
+    /* Main section */
+
+
+.secenddivbackground{
+     background-color: antiquewhite;
+     margin-top: 100px;
+    display: flex;
+text-align: center;
+
+}
+
+
+    
+     
+.forpadding{
+    padding-top: 150px ;
+    padding-left: 200px;
+    text-align: center;
+     
+}
+#picturepng{
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    height: 300px;
 }
