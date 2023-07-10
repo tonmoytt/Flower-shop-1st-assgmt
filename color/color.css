@@ -1,0 +1,23 @@
+/* header part */
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+
+}
+.maindiv{
+    padding: 80px 150px;
+     /* height: 500px ;
+     width: 700x ; */
+}
+.divbackground{
+    background-color: antiquewhite;
+}
+.common{
+    background-color: #E55473;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+}
