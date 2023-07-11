@@ -248,7 +248,7 @@ margin: 60px auto;
 } */
 
 .centerdiv{
-    margin: 30px 150px;
+    margin: 100px 150px;
     text-align: center;
 }
 
@@ -260,7 +260,8 @@ margin: 60px auto;
 
 .login-two{
 margin-left: 43px;
-font-size: 20px;
+font-size: 18px;
+
  
 
 } 
@@ -268,9 +269,10 @@ font-size: 20px;
     padding-bottom: 20px;
 }
 .log-two{
-    margin-left: 0px;
-     padding: 5px; 
+    margin-left: 33px;
+    padding: 5px; 
     font: 19px;
+     
 }
 
 .log-two1{
