@@ -5,28 +5,32 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-header {}
+ .size-one{
+    font-size: 13px;
+    color: rgb(122, 122, 122);
+ }
 
 #mainh1 {
-    font-size: 40px;
+    font-size: 43px;
 }
 
 .maindiv {
-    padding: 80px 150px;
-    /* height: 500px ;
-     width: 700x ; */
+    padding: 120px 150px;
+     
+
 }
 
 .divbackground {
-    background-color: rgb(218, 208, 221);
+    background-color: rgb(241, 227, 232);
     display: flex;
-    height: 600px;
+    height: 580px;
 
 
 }
 
 .common {
     background-color: #E55473;
+    margin-top: 10px;
     padding: 10px 15px;
     border-radius: 5px;
     color: white;
@@ -34,7 +38,7 @@ header {}
 }
 
 #picture {
-    height: 575px;
+    height: 555px;
     width: 500px;
     padding-top: 25px;
     padding-right: 90px;
@@ -89,31 +93,35 @@ header {}
     margin-top: 50px;
     display: flex;
      justify-content: center;
-     gap: 30px;
+     gap: 20px;
+}
+.text-size{
+    font-size: 12px;
+     
 }
 .box1{
-    background-color:rgb(203, 161, 176);
-    height: 280px;
-    width:200px;
-    border-top-left-radius: 100px;
-    border-top-right-radius: 100px;
-    padding: 25px 10px 10px 15px;
+    background-color:rgb(242, 223, 230);
+    height: 300px;
+    width:250px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    padding: 30px 20px 1px 20px;
 }
 .box2{
     background-color:rgb(210, 228, 231);
-    height: 280px;
-    width:200px;
-    border-top-left-radius: 100px;
-    border-top-right-radius: 100px;
-    padding: 25px 10px 10px 15px;
+    height: 300px;
+    width:250px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    padding: 30px 20px 1px 20px;
 }
 .box3{
     background-color:rgb(233, 234, 215);
-    height: 280px;
-    width:200px;
-    border-top-left-radius: 100px;
-    border-top-right-radius: 100px;
-    padding: 25px 10px 10px 15px;
+    height: 300px;
+    width:250px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    padding: 30px 20px 1px 20px;
 }
 
 .flower-name{
@@ -233,7 +241,50 @@ margin: 60px auto;
 
 }
 
+     /* section six */
 
+/* .login-center{
+
+} */
+
+.centerdiv{
+    margin: 30px 150px;
+    text-align: center;
+}
+
+.login{
+    margin-left:30px ;
+     border-color: none;
+      padding: 5px; 
+}
+
+.login-two{
+margin-left: 43px;
+font-size: 20px;
+ 
+
+} 
+.signup{
+    padding-bottom: 20px;
+}
+.log-two{
+    margin-left: 0px;
+     padding: 5px; 
+    font: 19px;
+}
+
+.log-two1{
+    font-size: 20px;
+}
+.delivery{
+      text-align: center; 
+      background-color: rgb(190, 191, 214);
+      margin: 100px 150px;
+}
+.delivery-one{
+    text-decoration: underline;
+    padding-top: 50px;
+}
 
 
 /* Footer sector */
