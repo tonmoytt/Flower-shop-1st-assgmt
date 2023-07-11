@@ -73,7 +73,7 @@
 }
 
 #picturepng {
-    /* padding-right: 100px; */
+     
     padding-top: 70px;
     padding-bottom: 30px;
     padding-left: 100px;
@@ -160,7 +160,7 @@
 
     display: flex;
     justify-content: center;
-    /* margin: 60px 140px; */
+    
 
 
      gap: 42px;
@@ -168,9 +168,7 @@
 
 }
 
-#imagemargin {
-    /* margin: 20px 23px; */
-}
+ 
 
 
 
@@ -231,9 +229,7 @@ margin: 60px auto;
     padding: 100px;
 }
 
-/* .smallto{
-    padding-top: 45px;
-} */
+ 
 
 .paddingfifth {
     text-align: center;
@@ -243,9 +239,7 @@ margin: 60px auto;
 
      /* section six */
 
-/* .login-center{
-
-} */
+ 
 
 .centerdiv{
     margin: 100px 150px;
